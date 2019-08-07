@@ -1,0 +1,5 @@
+obj/*
+bin/*
+*.nuspec
+NugetLibs.NetHelpTool.xml
+NugetLibs.NetHelpTool.*.nupkg
